@@ -1,0 +1,5 @@
+-> Open command line terminal and navigate to the project directory.
+-> Run command "jupyter notebook" to open jupyter notebook. Make sure to install jupyter and python 3+ beforehand.
+-> In the text document "OSS", run the code to train the model in a new notebook.
+-> Download streamlit extension and run app.py in terminal by command "streamlit run app.py"
+-> Make sure "similarity.pkl" file is downloaded (search on net!)
